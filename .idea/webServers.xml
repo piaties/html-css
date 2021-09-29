@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6a1684e1-0c48-423a-a4eb-43de923b6011" name="html-css" url="http://ddc-web-student.cnm.edu/~mahmed3/html-css">
+        <fileTransfer rootFolder="/home/mahmed3/public_html/html-css" accessType="SFTP" host="ddc-web-student.cnm.edu" port="22" sshConfigId="37bea8a4-5bfa-47eb-95a5-e674ee25135c" sshConfig="mahmed3@ddc-web-student.cnm.edu:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
